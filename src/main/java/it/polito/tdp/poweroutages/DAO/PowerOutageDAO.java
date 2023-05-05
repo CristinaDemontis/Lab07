@@ -35,5 +35,7 @@ public class PowerOutageDAO {
 		return nercList;
 	}
 	
+	
+	
 
 }
